@@ -1,0 +1,6 @@
+22 = SSH (Secure Shell) - Login to linux
+21 = FTP (File Transfer Protocol) - Load file to file share
+22 = SFTP (Secure File Transfer Protocol) - Load file using SSH
+80 = HTTP - Access unsecured websites
+443 = HTTPS - Access secured websites
+3389 = RDP (Remote desktop protocol) - Log in to a window instance
